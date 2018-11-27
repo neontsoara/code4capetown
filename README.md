@@ -12,4 +12,7 @@ Rebuilding  a website for code4ct and NGO
 
 #27 November 2018
 - added a background-color of black
+- created a variable 'font-family'
+- styled my h1, p tags along with the btn
+
 
