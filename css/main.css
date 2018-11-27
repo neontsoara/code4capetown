@@ -1,0 +1,18 @@
+nav {
+  text-align: center;
+  word-spacing: 20px;
+}
+
+.search {
+  display: flex;
+}
+
+.main {
+  background-color: black;
+  color: white;
+  text-align: center;
+  width: 100%;
+  height: 200p;
+}
+
+/*# sourceMappingURL=main.css.map */

@@ -9,3 +9,7 @@ Rebuilding  a website for code4ct and NGO
 - added a search option button
 - added three buttons 
 - Read more button that displays for info about who code4ct stands for
+
+#27 November 2018
+- added a background-color of black
+
