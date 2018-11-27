@@ -1,13 +1,7 @@
-// styling of my navbar
 
-nav {
-    text-align: center;
-    word-spacing: 20px;
 
-}
-
-.search {
-    display: flex
+a {
+    text-decoration: none;
 }
 
 .main {
@@ -22,17 +16,16 @@ nav {
 
 h1 {
     font-size: 45px;
-    position: relative;
-    top: 50px;
     font-family: $font-family;
 }
 
 .display {
-    font-size: 20px;
+    font-size: 21px;
     margin: 10%;
+    font-family: $font-family;
 }
 
-#btn {
-    word-spacing: 10px;
-    padding: 0;
+p {
+    font-size: 20px;
+    line-height: 30px;
 }

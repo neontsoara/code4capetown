@@ -14,5 +14,6 @@ Rebuilding  a website for code4ct and NGO
 - added a background-color of black
 - created a variable 'font-family'
 - styled my h1, p tags along with the btn
-
+- added images of code4ct students
+- added a background-color to the start coding button
 

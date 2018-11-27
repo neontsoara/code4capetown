@@ -1,3 +1,22 @@
+nav {
+  text-align: center;
+  word-spacing: 20px;
+  font-size: 23px;
+}
 
+.search {
+  display: inline-flex;
+  padding-bottom: 10px;
+  margin-left: 50px;
+}
+
+#btn {
+  word-spacing: 10px;
+  padding: 0;
+}
+
+#button1 {
+  background-color: #ee534f;
+}
 
 /*# sourceMappingURL=component.css.map */
