@@ -17,3 +17,8 @@ Rebuilding  a website for code4ct and NGO
 - added images of code4ct students
 - added a background-color to the start coding button
 
+#29 November 2018
+- installed two grids one for images and one for information
+- created a double underline
+-  
+

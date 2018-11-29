@@ -5,6 +5,8 @@ nav {
 }
 
 .search {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
   display: inline-flex;
   padding-bottom: 10px;
   margin-left: 50px;
@@ -29,5 +31,4 @@ nav {
 #readMore {
   margin: 70px;
 }
-
 /*# sourceMappingURL=component.css.map */

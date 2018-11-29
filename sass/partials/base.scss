@@ -19,6 +19,12 @@ h1 {
     font-family: $font-family;
 }
 
+h2 {
+    margin: 70px;
+    position: relative;
+    top: 25px;
+}
+
 .display {
     font-size: 21px;
     margin: 10%;
@@ -28,4 +34,25 @@ h1 {
 p {
     font-size: 20px;
     line-height: 30px;
+    margin: 70px;
+}
+
+.underline {
+    margin: 4px;
+    position: relative;
+    left: 66px;
+    bottom: 24px;
+}
+
+
+.line1 {
+    width: 40px;
+    height: 1.5px;
+    background-color: #ee534f;
+}
+
+.line2 {
+    width: 200px;
+    height: 1.5px;
+    background-color: #e7e7e7;
 }
