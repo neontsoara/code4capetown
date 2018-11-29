@@ -38,10 +38,18 @@ nav {
 }
 
 .code {
-  font-size: 50px;
+  font-size: 70px;
 }
 
 .print {
+  font-size: 70px;
+}
+
+.career {
+  font-size: 70px;
+}
+
+.service {
   font-size: 20px;
 }
 

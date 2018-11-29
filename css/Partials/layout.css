@@ -9,4 +9,10 @@
   height: 350px;
 }
 
+#offered_services {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 20px;
+}
+
 /*# sourceMappingURL=layout.css.map */
