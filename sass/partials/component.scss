@@ -3,6 +3,7 @@ nav {
     text-align: center;
     word-spacing: 20px;
     font-size: 23px;
+    font-family: Poppins;
 }
 
 .search {
@@ -20,13 +21,27 @@ nav {
     background-color: #ee534f;
     font-size: 20px;
     border-radius: 7px;
+    font-family: Poppins;
 }
 
 #button2 {
     font-size: 20px;
     border-radius: 7px;
+    font-family: Poppins;
 }
 
 #readMore {
     margin: 70px;
+    position: relative;
+    bottom: 100px;
+    font-family: Poppins;
+    bottom: 100px;
+}
+
+.code {
+    font-size: 50px;
+}
+
+.print {
+    font-size: 20px;
 }
