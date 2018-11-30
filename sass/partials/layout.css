@@ -3,12 +3,12 @@
   display: grid;
   -ms-grid-columns: 1fr 1fr;
       grid-template-columns: 1fr 1fr;
-  padding: 25px;
+  padding: 27px;
 }
 
 .pic {
-  width: 350px;
-  height: 350px;
+  width: 270px;
+  height: 270px;
 }
 
 #offered_services {
@@ -17,5 +17,7 @@
   -ms-grid-columns: 1fr 1fr 1fr;
       grid-template-columns: 1fr 1fr 1fr;
   padding: 20px;
+  background-color: black;
+  font-size: 30px;
 }
 /*# sourceMappingURL=layout.css.map */

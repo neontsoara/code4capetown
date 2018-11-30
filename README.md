@@ -20,5 +20,6 @@ Rebuilding  a website for code4ct and NGO
 #29 November 2018
 - installed two grids one for images and one for information
 - created a double underline
-- 3 icons added 
+- 3 icons added
+- edited styling of 3 grids with the icons in 
 

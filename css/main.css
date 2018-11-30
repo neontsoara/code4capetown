@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-  margin: 70px;
+  margin: 53px;
   position: relative;
   top: 25px;
 }
@@ -29,16 +29,17 @@ h2 {
 }
 
 p {
-  font-size: 20px;
+  font-size: 15px;
   line-height: 30px;
-  margin: 70px;
+  margin: 53px;
   font-family: Poppins;
+  font-weight: 800;
 }
 
 .underline {
   margin: 4px;
   position: relative;
-  left: 66px;
+  left: 53px;
   bottom: 24px;
 }
 
@@ -61,14 +62,16 @@ p {
 }
 
 .pic {
-  width: 350px;
-  height: 350px;
+  width: 270px;
+  height: 270px;
 }
 
 #offered_services {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   padding: 20px;
+  background-color: black;
+  font-size: 30px;
 }
 
 nav {
@@ -103,7 +106,7 @@ nav {
 }
 
 #readMore {
-  margin: 70px;
+  margin: 53px;
   position: relative;
   bottom: 100px;
   font-family: Poppins;
@@ -111,19 +114,25 @@ nav {
 }
 
 .code {
-  font-size: 70px;
+  font-size: 34px;
+  color: #ee534f;
 }
 
 .print {
-  font-size: 70px;
+  font-size: 34px;
+  color: #ee534f;
 }
 
 .career {
-  font-size: 70px;
+  font-size: 34px;
+  color: #ee534f;
 }
 
 .service {
-  font-size: 20px;
+  font-size: 14px;
+  color: #ee534f;
+  color: white;
+  text-align: center;
 }
 
 /*# sourceMappingURL=main.css.map */
